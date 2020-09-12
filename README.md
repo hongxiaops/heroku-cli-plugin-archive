@@ -19,7 +19,7 @@ $ npm install -g heroku-cli-plugin
 $ oclif-example COMMAND
 running command...
 $ oclif-example (-v|--version|version)
-heroku-cli-plugin/1.0.0 darwin-x64 node-v14.5.0
+heroku-cli-plugin/1.0.1 darwin-x64 node-v14.5.0
 $ oclif-example --help [COMMAND]
 USAGE
   $ oclif-example COMMAND
@@ -49,7 +49,7 @@ EXAMPLE
   hello world from ./src/hello.ts!
 ```
 
-_See code: [src/commands/hello.ts](https://github.com/hongxiaops/heroku-cli-plugin/blob/v1.0.0/src/commands/hello.ts)_
+_See code: [src/commands/hello.ts](https://github.com/hongxiaops/heroku-cli-plugin/blob/v1.0.1/src/commands/hello.ts)_
 
 ## `oclif-example mycommand`
 
@@ -60,5 +60,5 @@ USAGE
   $ oclif-example mycommand
 ```
 
-_See code: [src/commands/mycommand.ts](https://github.com/hongxiaops/heroku-cli-plugin/blob/v1.0.0/src/commands/mycommand.ts)_
+_See code: [src/commands/mycommand.ts](https://github.com/hongxiaops/heroku-cli-plugin/blob/v1.0.1/src/commands/mycommand.ts)_
 <!-- commandsstop -->
